@@ -1,16 +1,13 @@
-## Hi there 👋
+## BOM DIA / BOA TARDE / BOA NOITE
 
-<!--
-**Dottothales/Dottothales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Matheus "Dotto" Thales, tenho 20 anos, e esse é o meu GitHub
 
-Here are some ideas to get you started:
+- Estou estudando Ciencia da Computação na Ufersa
+- Conhecimentos Atuais (21/01/2025): [Python, C++, Ingles, Espanhol, Eletronica, Eletrotécnica]
+- Ja fui medalhista na OBMEP (Bronze) e na OQRN (Bronze)
+- Caso queiram me contatar tem o @Mthalito no insta e o Dottothales@gmail.com
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ 
